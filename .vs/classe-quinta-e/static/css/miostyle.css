@@ -1,0 +1,28 @@
+
+/* Sfondo della pagina */
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Titolo principale */
+h1 {
+    color: darkblue;
+    font-size: 32px;
+}
+
+/* Paragrafi */
+p {
+    color: black;
+    font-size: 18px;
+}
+
+/* Pulsante */
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
