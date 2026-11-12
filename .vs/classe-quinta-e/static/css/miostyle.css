@@ -12,17 +12,4 @@ h1 {
     font-size: 32px;
 }
 
-/* Paragrafi */
-p {
-    color: black;
-    font-size: 18px;
-}
 
-/* Pulsante */
-button {
-    background-color: blue;
-    color: white;
-    padding: 10px;
-    border: none;
-    border-radius: 5px;
-}
